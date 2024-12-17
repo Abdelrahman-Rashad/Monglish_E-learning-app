@@ -1,7 +1,4 @@
 # Monglish
-
-A new Flutter project.
-
 ## Task
 The task is to implement Login Screen, Home Screen and Menu.
 
@@ -19,3 +16,7 @@ Dart
 
 ## UI Design
 the design was given by Figma 
+
+## Images
+![](mockup/cover-monglish.png)
+![](mockup/login-monglish.png)
