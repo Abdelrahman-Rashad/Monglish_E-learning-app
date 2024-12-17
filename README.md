@@ -1,16 +1,21 @@
-# quantum_sit
+# Monglish
 
 A new Flutter project.
 
-## Getting Started
+## Task
+The task is to implement Login Screen, Home Screen and Menu.
 
-This project is a starting point for a Flutter application.
+## Technology
+I used Flutter technologye to provide this app in Android and IOS.<br />
+- Cubit <br />
+- Animation <br />
+- Clean architecture <br />
+- Dio (API) <br />
+- Table calendar <br />
+- Percent indicator <br />
 
-A few resources to get you started if this is your first Flutter project:
+## Language 
+Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## UI Design
+the design was given by Figma 
